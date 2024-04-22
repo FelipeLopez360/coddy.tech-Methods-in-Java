@@ -1,5 +1,5 @@
 
-# Coddy.Tech Java Fundamentals
+# Coddy.Tech Methods in Java
 
 This repository contains the resources and exercises for the Methods in Java course by coddy.tech. The course is designed to provide a solid introduction to Java programming, covering basic to advanced topics.
 
